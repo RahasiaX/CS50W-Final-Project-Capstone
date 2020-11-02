@@ -1,0 +1,6 @@
+Required to install with pip:
+- django-filter
+- django-bootstrap-form
+- djangorestframework
+- numpy
+- django-widget-tweaks
